@@ -1,5 +1,6 @@
 # architectural-engineering-ai-portfolio
 My experience
+
 I am a Design Architect with 10+ years of experience in architectural design, construction documentation, BIM modeling, building code interpretation, and multidisciplinary coordination.
 Since 2021, I have worked as an independent Design Architect on U.S.-based projects, focusing on architectural design from conceptual and schematic design through detailed construction documentation. My responsibilities include interpreting and applying local building codes, including the IBC, CBC, CRC, CPC, CMC, and CEC. This has given me practical knowledge of U.S. building standards and the requirements architectural documents must meet during design and plan review.
 I regularly review architectural information for consistency, constructability, and coordination with structural and MEP systems.
